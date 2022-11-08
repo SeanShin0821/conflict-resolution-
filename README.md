@@ -7,3 +7,5 @@ All of this content added to the README file has been added from my local Git re
 git commit
 
 git commit 
+
+GIT COMMIT 
